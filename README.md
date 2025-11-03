@@ -1,40 +1,28 @@
 # 四足机器人（龟）
 > 2025.02
 
-![正面照](turtle.jpg)
+![正面照](photos/turtle.jpg)
 
 ## 功能研发过程
 >  由于找不到各种外形结构的solidworks文件了，就暂时只上传了部分功能代码以及视频
 
-<video width="480" controls>
-  <source src="video/skeleton-walking1.mp4" type="video/mp4">
-  It's a version 1 video of skeleton walking.
-</video>
+![Skeleton Walking1](videos/skeleton-walking1.gif)
 
 >  这是初版的骨架行走视频
 
 
 
-<video width="480" controls>
-  <source src="video/skeleton-walking2.mp4" type="video/mp4">
-  It's a version 2 video of skeleton walking.
-</video>
+![Skeleton Walking2](videos/skeleton-walking2.gif)
 
 > 这是第二版的骨架行走视频
 
 
-<video width="480" controls>
-  <source src="video/turtle-dancing.mp4" type="video/mp4">
-  It's a video of turtle dancing.
-</video>
+![Turtle Dancing](videos/turtle-dancing.gif)
 
 > 这是完善外形之后的一个简陋乌龟舞蹈视频
 
 
-<video width="480" controls>
-  <source src="video/turtle-walking.mp4" type="video/mp4">
-  It's a video of turtle walking.
-</video>
+![Turtle Walking](videos/turtle-walking.gif)
 
 > 这是最终乌龟行走的视频展示
 
